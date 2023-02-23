@@ -1,0 +1,24 @@
+﻿<Window x:Class="UI.AdminView.AdminAccess.AdminOptions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.AdminView.AdminAccess"
+        mc:Ignorable="d"
+        Title="AdminOptions" Height="450" Width="800"  WindowState="Maximized">
+    <Grid>
+        <Button Content="Buses" HorizontalAlignment="Left" Margin="72,47,0,0" VerticalAlignment="Top" Width="219" Height="102"
+                 Click="Button_Click_Buses_List_Display"/>
+        <Button Content="Adjacent Stations" HorizontalAlignment="Left" Margin="326,49,0,0" VerticalAlignment="Top" Width="219" Height="102"
+                Click="Button_Click_Adjacent_Stations_List_Display"/>
+        <Button Content="Lines" HorizontalAlignment="Left" Margin="70,218,0,0" VerticalAlignment="Top" Width="219" Height="102"
+                Click="Button_Click_Lines_List_Display"/>
+        <Button Content="Stations" HorizontalAlignment="Left" Margin="311,218,0,0" VerticalAlignment="Top" Width="219" Height="102" 
+        Click="Button_Click_Stations_List_Display"/>
+        <Button Content="Lines Schedules" HorizontalAlignment="Left" Margin="565,49,0,0" VerticalAlignment="Top" Width="194" Height="103" Click="Button_Click_Lines_Schedules_List_Display"/>
+        <Button Content="Digital Panel" HorizontalAlignment="Left" Margin="565,218,0,0" VerticalAlignment="Top" Width="194" Height="102" Click=" Button_Click_Digital_Panel_Display"/>
+    </Grid>
+</Window>
+
+
+<!--RenderTransformOrigin="0.486,1.032"-->

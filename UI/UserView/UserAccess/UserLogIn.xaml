@@ -1,0 +1,13 @@
+﻿<Window x:Class="UI.UserView.UserAccess.UserLogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.UserView.UserAccess"
+        mc:Ignorable="d"
+        Title="UserLogIn" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Height="33" Margin="175,120,0,0" TextWrapping="Wrap" Text="This part is still in counstruction" VerticalAlignment="Top" Width="360" />
+
+    </Grid>
+</Window>

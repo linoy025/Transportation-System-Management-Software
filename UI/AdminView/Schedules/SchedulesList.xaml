@@ -1,0 +1,46 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.AdminView.Schedules"
+        xmlns:BO="clr-namespace:BO;assembly=BL" x:Class="UI.AdminView.Schedules.SchedulesList"
+        mc:Ignorable="d"
+        Title="SchedulesList" Height="450" Width="800" >
+   
+    <Grid >
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="14*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        <ListView Name="lineListView" Grid.Column="0" Margin="-1,-1,8,77" Grid.ColumnSpan="4"  SelectionChanged="LineListView_SelectionChanged">
+                <ListView.View>
+                    <GridView >
+
+                        <GridViewColumn Header="Area" Width="120" DisplayMemberBinding="{Binding Area}" />
+                        <GridViewColumn Header="LineId" Width="120" DisplayMemberBinding="{Binding LineId}" />
+                    <GridViewColumn Header="Line Number" Width="120" DisplayMemberBinding="{Binding LineNumber}" />
+                    <GridViewColumn Header="Is Night Line" Width="120" DisplayMemberBinding="{Binding IsNightLine}" />
+                    <!--<GridViewColumn Width="180" Header="What do you want to do?">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button   Content="Add New Leaving Line"  Margin="0"
+                                    VerticalAlignment="Center"
+                                    Click="Button_Click_Add_Leaving_Line" />
+                                    <Button   Content="Delete Leaving Line"  Margin="0"
+                                    VerticalAlignment="Center"
+                                    Click="Button_Click_Delete_Leaving_Line" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                </GridView>
+                </ListView.View>
+            </ListView>
+
+    </Grid>
+</Window>

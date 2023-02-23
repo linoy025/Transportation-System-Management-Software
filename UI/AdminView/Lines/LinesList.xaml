@@ -1,0 +1,131 @@
+﻿<!--<Window
+    x:Class="UI.AdminView.Lines.LinesList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.AdminView.Lines"
+        xmlns:BO="clr-namespace:BO;assembly=BL" 
+        mc:Ignorable="d"
+        Title="LinesList" Height="450" Width="704.871">
+    <Grid>
+        <ListView x:Name="lineListView" ItemsSource="{Binding}" Margin="0,0,527,0" SelectionMode="Single">
+            <ListView.ItemContainerStyle>
+                <Style>
+                    <Setter Property="Control.HorizontalContentAlignment" Value="Stretch"/>
+                    <Setter Property="Control.VerticalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="lineIdColumn" Header="Line Id" Width="80">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Margin="6,-1,-6,-1" Text="{Binding LineId}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn x:Name="lineNumberColumn" Header="Line Number" Width="80">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Margin="-6,-1" Text="{Binding LineNumber}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>-->
+
+
+
+<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI.AdminView.Lines"
+        xmlns:BO="clr-namespace:BO;assembly=BL" x:Class="UI.AdminView.Lines.LinesList"
+        mc:Ignorable="d"
+        Title="LinesList" Height="450" Width="600" WindowState="Maximized">
+
+    <!--<Grid >
+        <ListView x:Name="lineListView" ItemsSource="{Binding}" Margin="40,27,385,76" SelectionMode="Single" SelectionChanged="LineListView_SelectionChanged" HorizontalContentAlignment="Center">
+            <ListView.ItemContainerStyle>
+                <Style>
+                    <Setter Property="Control.HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="Control.VerticalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="areaColumn1" Header="Area" Width="80">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBox Margin="6,-1,-6,-1" Text="{Binding Area, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" IsReadOnly="True"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn x:Name="lineIdColumn1" Header="Line Id" Width="80">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Margin="-6,-1" Text="{Binding LineId}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Add new line" HorizontalAlignment="Center" Margin="40,358,0,0" VerticalAlignment="Top" Width="167" Height="37" Click="Button_Click_Adding_New_Line" HorizontalContentAlignment="Center"/>
+
+    </Grid>-->
+
+
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListView Name="lineListView" Grid.Column="0" Margin="-1,-1,8,77" Grid.ColumnSpan="4" MouseDoubleClick="LineListView_MouseDoubleClick">
+
+
+            <ListView.View>
+                <GridView >
+                    <GridViewColumn Header="Line number" Width="120" DisplayMemberBinding="{Binding LineNumber}" />
+                    <GridViewColumn Header="Area" Width="120" DisplayMemberBinding="{Binding Area}" />
+
+                    <GridViewColumn Width="180" Header="What do you want to do?">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button   Content="Update me"  Margin="0"
+                                    VerticalAlignment="Center"
+                                    Click="Button_Click_Update_Line" />
+                                    <Button   Content="Delete me"  Margin="0"
+                                    VerticalAlignment="Center"
+                                    Click="Button_Click_Delete_Line" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Content="Add New Line" HorizontalAlignment="Left" Margin="230,0,0,0" VerticalAlignment="Bottom" Width="217" 
+                Background="#FFE60D49" Foreground="White" FontFamily="Arial Narrow" Height="44" Click="Button_Click_Adding_New_Line" FontSize="18"/>
+    </Grid>
+
+
+
+
+
+
+
+
+
+
+</Window>
