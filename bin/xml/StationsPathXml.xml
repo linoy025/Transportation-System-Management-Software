@@ -1,0 +1,995 @@
+<?xml version="1.0"?>
+<ArrayOfStation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Station>
+    <StationId>638</StationId>
+    <Logtitude>35.12454</Logtitude>
+    <Latitude>31.801002</Latitude>
+    <StationName>Hemed Interchange</StationName>
+    <StationAddress>Hemed Interchange,Mate Yehuda</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20178</StationId>
+    <Logtitude>34.3</Logtitude>
+    <Latitude>31</Latitude>
+    <StationName>Aviv Merkaz trai</StationName>
+    <StationAddress>Al Parashat Drachim, Tel-Aviv-Jaffa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20001</StationId>
+    <Logtitude>34.3</Logtitude>
+    <Latitude>31</Latitude>
+    <StationName> Merkaz station</StationName>
+    <StationAddress>Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>640</StationId>
+    <Logtitude>35.126238</Logtitude>
+    <Latitude>31.80033</Latitude>
+    <StationName>Hemed Interchange</StationName>
+    <StationAddress>Exit to Road 1 City/Mateh Yehuda</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>5602</StationId>
+    <Logtitude>35.145723</Logtitude>
+    <Latitude>31.798621</Latitude>
+    <StationName>Har'el interchange</StationName>
+    <StationAddress> Exit to Road 1/Mevaseret Zion</StationAddress>
+    <IsAvailableStation>false</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>4170</StationId>
+    <Logtitude>35.203715</Logtitude>
+    <Latitude>31.789467</Latitude>
+    <StationName>Jerusalem Central Station 3rd Floor/Docks</StationName>
+    <StationAddress>199 Jaffa Street, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30136</StationId>
+    <Logtitude>34.85874</Logtitude>
+    <Latitude>32.326889</Latitude>
+    <StationName>Netanya Central Station/Platforms</StationName>
+    <StationAddress> Pinsker Street/Netanya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30279</StationId>
+    <Logtitude>34.889178</Logtitude>
+    <Latitude>32.323745</Latitude>
+    <StationName>Sha'ar Hefer Junction</StationName>
+    <StationAddress>Derech Hasharon 1 Street/ Beit Yitzhak Sha'ar Hefer</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30297</StationId>
+    <Logtitude>34.893202</Logtitude>
+    <Latitude>32.342733</Latitude>
+    <StationName>Hefer Road/Sha'ar HaKfar</StationName>
+    <StationAddress>Derech Hefer 29 Street, Beit Yitzhak Sha'ar Hefer</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37837</StationId>
+    <Logtitude>34.907167</Logtitude>
+    <Latitude>32.35688</Latitude>
+    <StationName>HaOgen Junction</StationName>
+    <StationAddress>5700 Street, Emek Hefer</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30434</StationId>
+    <Logtitude>34.911999</Logtitude>
+    <Latitude>32.393824</Latitude>
+    <StationName>Hibat Tsiyon Junction</StationName>
+    <StationAddress>581 Street, Kfar Haroeh</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39582</StationId>
+    <Logtitude>35.145723</Logtitude>
+    <Latitude>31.798621</Latitude>
+    <StationName>Cultural Center</StationName>
+    <StationAddress>Genesis 44 Street</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30787</StationId>
+    <Logtitude>34.3</Logtitude>
+    <Latitude>31</Latitude>
+    <StationName>hhhh</StationName>
+    <StationAddress>5714 Street,Emek Hefer</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30734</StationId>
+    <Logtitude>34.986256</Logtitude>
+    <Latitude>32.3122</Latitude>
+    <StationName>Be'erotayim Junction</StationName>
+    <StationAddress> 57 Street, Lev Hasharon</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>30515</StationId>
+    <Logtitude>34.924121</Logtitude>
+    <Latitude>32.321476</Latitude>
+    <StationName>Camp 21 Junction</StationName>
+    <StationAddress>Ha'atzmaut 5 Street, Kfar Yona</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39524</StationId>
+    <Logtitude>34.874173</Logtitude>
+    <Latitude>32.324396</Latitude>
+    <StationName>Neve Itamar Junction</StationName>
+    <StationAddress>Jordan Road Street, Netanya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39522</StationId>
+    <Logtitude>34.85839</Logtitude>
+    <Latitude>32.327128</Latitude>
+    <StationName>Netanya Central Station/Unloading</StationName>
+    <StationAddress>Pinsker Street, Netanya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>1431</StationId>
+    <Logtitude>35.241777</Logtitude>
+    <Latitude>31.796261</Latitude>
+    <StationName>The Hebrew University/Churchill Blvd</StationName>
+    <StationAddress>Churchill Blvd,Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>3850</StationId>
+    <Logtitude>35.236591</Logtitude>
+    <Latitude>31.803953</Latitude>
+    <StationName>HaHagana/Etzel</StationName>
+    <StationAddress>5 HaHagana Street,Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>6066</StationId>
+    <Logtitude>35.229801</Logtitude>
+    <Latitude>31.804272</Latitude>
+    <StationName>Sheshet HaYamim</StationName>
+    <StationAddress>31 Sheshet HaYamim,Jerusalem </StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>4012</StationId>
+    <Logtitude>35.218752</Logtitude>
+    <Latitude>31.795253</Latitude>
+    <StationName>Bar Ilan/Shmu'el HaNavi</StationName>
+    <StationAddress>10 Bar Ilan,Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>5949</StationId>
+    <Logtitude>35.203674</Logtitude>
+    <Latitude>31.788746</Latitude>
+    <StationName>Jerusalem Central Station/Yafo(A3)</StationName>
+    <StationAddress>224 Yafo,Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>1540</StationId>
+    <Logtitude>35.199372</Logtitude>
+    <Latitude>31.787317</Latitude>
+    <StationName>Gesher Hameitarim/Herzl Blvd</StationName>
+    <StationAddress>4 Herzl Blvd, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>3099</StationId>
+    <Logtitude>35.199962</Logtitude>
+    <Latitude>31.783621</Latitude>
+    <StationName>Government Complex/Lorch</StationName>
+    <StationAddress>Nathaniel Lorch, Jerusalem</StationAddress>
+    <IsAvailableStation>false</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>9915</StationId>
+    <Logtitude>35.198681</Logtitude>
+    <Latitude>31.779911</Latitude>
+    <StationName>HaJoint/Balfour Road</StationName>
+    <StationAddress>Eliezer Kaplan, Jerusalem</StationAddress>
+    <IsAvailableStation>false</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>4190</StationId>
+    <Logtitude>35.196199</Logtitude>
+    <Latitude>31.779177</Latitude>
+    <StationName>Safra Campus/Wise Auditorium</StationName>
+    <StationAddress>Balfour Road, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>3609</StationId>
+    <Logtitude>35.195398</Logtitude>
+    <Latitude>31.7758</Latitude>
+    <StationName>The National Library</StationName>
+    <StationAddress>Balfour Road, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>35377</StationId>
+    <Logtitude>34.863805</Logtitude>
+    <Latitude>32.106362</Latitude>
+    <StationName>Kiryat Arye Railway Station</StationName>
+    <StationAddress>Petah Tikva</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>36899</StationId>
+    <Logtitude>34.877315</Logtitude>
+    <Latitude>32.091631</Latitude>
+    <StationName>Orlov/Krol</StationName>
+    <StationAddress>Zeev Orlov 8 Street, Petah Tikva</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39686</StationId>
+    <Logtitude>34.903897</Logtitude>
+    <Latitude>32.12281</Latitude>
+    <StationName>Yarkon Interchange</StationName>
+    <StationAddress>40 Road, Petah Tikva</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37174</StationId>
+    <Logtitude>34.894726</Logtitude>
+    <Latitude>32.14721</Latitude>
+    <StationName>Yarkona Junction</StationName>
+    <StationAddress>115 Ramtaim Road Street, Hod Hasharon</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>35946</StationId>
+    <Logtitude>34.893876</Logtitude>
+    <Latitude>32.168135</Latitude>
+    <StationName>Ein Hai/HaMeyasdim</StationName>
+    <StationAddress>Ein Hai 26 Street, Kfar Malal</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37060</StationId>
+    <Logtitude>34.88064</Logtitude>
+    <Latitude>32.17926</Latitude>
+    <StationName>Ahuza/Bialik</StationName>
+    <StationAddress> Ahuza 66 Street, Raanana</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>36614</StationId>
+    <Logtitude>34.863588</Logtitude>
+    <Latitude>32.183043</Latitude>
+    <StationName>Ahuza/Migdal</StationName>
+    <StationAddress>Ahuza 210 Street,Raanana</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26910</StationId>
+    <Logtitude>34.851892</Logtitude>
+    <Latitude>32.172463</Latitude>
+    <StationName>Yerushalayim/Har Sinai</StationName>
+    <StationAddress>Jerusalem Road Street, Herzliya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26895</StationId>
+    <Logtitude>34.841745</Logtitude>
+    <Latitude>32.16117</Latitude>
+    <StationName>HaRav Kook/Ben Gurion</StationName>
+    <StationAddress>Harav Kook 10 Street, Herzliya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20167</StationId>
+    <Logtitude>34.819187</Logtitude>
+    <Latitude>32.164439</Latitude>
+    <StationName>Ben Zion Micha'eli/HaRakevet</StationName>
+    <StationAddress>Ben Zion Michaeli Street, Herzliya</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>41200</StationId>
+    <Logtitude>35.020041</Logtitude>
+    <Latitude>32.776736</Latitude>
+    <StationName>Technion/Hasenat Dormitories</StationName>
+    <StationAddress>Sderot David Rose Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>41205</StationId>
+    <Logtitude>35.025582</Logtitude>
+    <Latitude>32.774777</Latitude>
+    <StationName>Technion/Material engineering</StationName>
+    <StationAddress>Sderot David Rose Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>43073</StationId>
+    <Logtitude>35.028477</Logtitude>
+    <Latitude>32.777223</Latitude>
+    <StationName>Technion/Biotechnology and Food</StationName>
+    <StationAddress>Sderot David Rose Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>43022</StationId>
+    <Logtitude>35.021166</Logtitude>
+    <Latitude>32.779897</Latitude>
+    <StationName>Technion/Civil Engineering</StationName>
+    <StationAddress>Sderot David Rose Street, Haifa</StationAddress>
+    <IsAvailableStation>false</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>43015</StationId>
+    <Logtitude>35.019648</Logtitude>
+    <Latitude>32.77895</Latitude>
+    <StationName>Technion/Sports Building</StationName>
+    <StationAddress>Derech Yaakov Dori Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>42335</StationId>
+    <Logtitude>35.013969</Logtitude>
+    <Latitude>32.779816</Latitude>
+    <StationName>Malal/Komoly</StationName>
+    <StationAddress>MLL 3 Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>41209</StationId>
+    <Logtitude>35.017412</Logtitude>
+    <Latitude>32.784852</Latitude>
+    <StationName>Trumpeldor/David Square</StationName>
+    <StationAddress>27 Trumpeldor Blvd Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>42506</StationId>
+    <Logtitude>34.965229</Logtitude>
+    <Latitude>32.790444</Latitude>
+    <StationName>Congress Center/Fliman</StationName>
+    <StationAddress>Derech Moshe Fliman Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>42501</StationId>
+    <Logtitude>34.958675</Logtitude>
+    <Latitude>32.790898</Latitude>
+    <StationName>Saharov</StationName>
+    <StationAddress>Andrei Sakharov Street, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>42657</StationId>
+    <Logtitude>34.959587</Logtitude>
+    <Latitude>32.793368</Latitude>
+    <StationName>Hof HaKarmel Central Station/Unloading</StationName>
+    <StationAddress>Central Station, Haifa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37135</StationId>
+    <Logtitude>34.891979</Logtitude>
+    <Latitude>32.175709</Latitude>
+    <StationName>Court House/Tchernichovsky</StationName>
+    <StationAddress>Tchernichovsky 2 Street, Kfar Saba</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37027</StationId>
+    <Logtitude>34.899708</Logtitude>
+    <Latitude>32.177199</Latitude>
+    <StationName>Weizmann/Gordon</StationName>
+    <StationAddress>Weizmann 30 Street, Kfar Saba</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>37033</StationId>
+    <Logtitude>34.909611</Logtitude>
+    <Latitude>32.174907</Latitude>
+    <StationName>Weizmann/Rothschild</StationName>
+    <StationAddress>Weizmann 122 Street, Kfar Saba</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39794</StationId>
+    <Logtitude>34.917442</Logtitude>
+    <Latitude>32.167612</Latitude>
+    <StationName>Kefar Saba Nordau Train Station</StationName>
+    <StationAddress>Train Station, Kefar Saba</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>39791</StationId>
+    <Logtitude>34.92668</Logtitude>
+    <Latitude>32.170317</Latitude>
+    <StationName>G Mall Kfar Saba </StationName>
+    <StationAddress>Weizmann Street, Kfar Saba</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>63180</StationId>
+    <Logtitude>35.072021</Logtitude>
+    <Latitude>32.168286</Latitude>
+    <StationName>Ma'ale Shomron Industrial Zone</StationName>
+    <StationAddress>Ma'ale Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>61211</StationId>
+    <Logtitude>35.078966</Logtitude>
+    <Latitude>32.171137</Latitude>
+    <StationName>HaGefen/HaHadas</StationName>
+    <StationAddress>Hagefen 50 Street, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>65287</StationId>
+    <Logtitude>35.083495</Logtitude>
+    <Latitude>32.16696</Latitude>
+    <StationName>Alon/HaSavyon Alley</StationName>
+    <StationAddress>Alon 54 Street, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>63188</StationId>
+    <Logtitude>35.085469</Logtitude>
+    <Latitude>32.170855</Latitude>
+    <StationName>Alon/Nitsanim</StationName>
+    <StationAddress>Alon 13 Street, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>65268</StationId>
+    <Logtitude>35.093854</Logtitude>
+    <Latitude>32.175203</Latitude>
+    <StationName>Rehav'am Boulevard/Karne Shomron</StationName>
+    <StationAddress>Rehav'am Boulevard, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>63203</StationId>
+    <Logtitude>35.106944</Logtitude>
+    <Latitude>32.168782</Latitude>
+    <StationName>Kle Shir/HaPa'amon</StationName>
+    <StationAddress>Kle Shir 29 Street, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>63206</StationId>
+    <Logtitude>34.959587</Logtitude>
+    <Latitude>32.793368</Latitude>
+    <StationName>Pais Youth Club</StationName>
+    <StationAddress>Hagitit Street, Karne Shomron</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>21486</StationId>
+    <Logtitude>34.813795</Logtitude>
+    <Latitude>32.049042</Latitude>
+    <StationName>HaTayasim Terminal</StationName>
+    <StationAddress>Pilots Road Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>21437</StationId>
+    <Logtitude>34.899708</Logtitude>
+    <Latitude>32.177199</Latitude>
+    <StationName>Bar Lev Road/Sheshet HaYamim Blvd</StationName>
+    <StationAddress>Derech Chaim Barlev 197 Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>21574</StationId>
+    <Logtitude>34.800032</Logtitude>
+    <Latitude>32.046839</Latitude>
+    <StationName>Bar Lev Road/Moshe Dayan Road</StationName>
+    <StationAddress>Derech Chaim Barlev 111 Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>25663</StationId>
+    <Logtitude>34.791655</Logtitude>
+    <Latitude>32.051239</Latitude>
+    <StationName>Etzel/Hanuch</StationName>
+    <StationAddress>Etchel 49 Street, Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>25402</StationId>
+    <Logtitude>34.774542</Logtitude>
+    <Latitude>32.059067</Latitude>
+    <StationName>Levinsky/Ha'Aliya</StationName>
+    <StationAddress>Lewinsky 69 Street, Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>23021</StationId>
+    <Logtitude>34.771697</Logtitude>
+    <Latitude>32.066605</Latitude>
+    <StationName>Allenby/Mazeh</StationName>
+    <StationAddress>79 Allenby Street, Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>21539</StationId>
+    <Logtitude>34.768438</Logtitude>
+    <Latitude>32.073312</Latitude>
+    <StationName>Ben Yehuda/Allenby</StationName>
+    <StationAddress>Ben Yehuda 2 Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>23004</StationId>
+    <Logtitude>34.770132</Logtitude>
+    <Latitude>32.080352</Latitude>
+    <StationName>Ben Yehuda/Frishman</StationName>
+    <StationAddress>76 Ben Yehuda Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>23001</StationId>
+    <Logtitude>34.773359</Logtitude>
+    <Latitude>32.087763</Latitude>
+    <StationName>Ben Yehuda/Arlozorov</StationName>
+    <StationAddress>178 Ben Yehuda Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>22999</StationId>
+    <Logtitude>34.775016</Logtitude>
+    <Latitude>32.093349</Latitude>
+    <StationName>Ben Yehuda/Nordau Blvd</StationName>
+    <StationAddress>240 Ben Yehuda Street,Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>27246</StationId>
+    <Logtitude>34.776059</Logtitude>
+    <Latitude>32.096391</Latitude>
+    <StationName>Dizengoff/Ben Yehuda</StationName>
+    <StationAddress>Dizengoff 330 Street, Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>22927</StationId>
+    <Logtitude>34.77995</Logtitude>
+    <Latitude>32.098886</Latitude>
+    <StationName>Reading</StationName>
+    <StationAddress>Reading, Tel Aviv-Yafo</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>15897</StationId>
+    <Logtitude>34.738631</Logtitude>
+    <Latitude>31.735669</Latitude>
+    <StationName>Stadium/Herzl</StationName>
+    <StationAddress>70 Herzl,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>19516</StationId>
+    <Logtitude>34.73991</Logtitude>
+    <Latitude>31.73541</Latitude>
+    <StationName>Weizmann/Bar Yehuda</StationName>
+    <StationAddress>37 Weizmann Blvd,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10720</StationId>
+    <Logtitude>34.743587</Logtitude>
+    <Latitude>31.725972</Latitude>
+    <StationName>Yerushalayim Boulevard/Jabotinsky</StationName>
+    <StationAddress>5 Yerushalayim Boulevard,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>14831</StationId>
+    <Logtitude>34.745021</Logtitude>
+    <Latitude>31.726872</Latitude>
+    <StationName>Jabotinsky/David Razi'el</StationName>
+    <StationAddress>8 Jabotinsky,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>14827</StationId>
+    <Logtitude>34.746559</Logtitude>
+    <Latitude>31.729869</Latitude>
+    <StationName>Jabotinsky/David Ben Gurion Blvd</StationName>
+    <StationAddress>Jabotinsky,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>14836</StationId>
+    <Logtitude>34.747204</Logtitude>
+    <Latitude>31.731415</Latitude>
+    <StationName>Jabotinsky/HaGalil</StationName>
+    <StationAddress>61 Jabotinsky,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>15231</StationId>
+    <Logtitude>34.747561</Logtitude>
+    <Latitude>31.734123</Latitude>
+    <StationName>Jabotinsky/Hacarmel</StationName>
+    <StationAddress>60 Jabotinsky,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>19385</StationId>
+    <Logtitude>34.755354</Logtitude>
+    <Latitude>31.734424</Latitude>
+    <StationName>Haharoshet/Halutse HaTa'asiya</StationName>
+    <StationAddress>9 Haharoshet,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>11219</StationId>
+    <Logtitude>34.752588</Logtitude>
+    <Latitude>31.731453</Latitude>
+    <StationName>Menachem Begin/Sha'ar Ha'Ir</StationName>
+    <StationAddress>11 Menachem Begin Blvd,Kiryat Malakhi</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>11168</StationId>
+    <Logtitude>34.756392</Logtitude>
+    <Latitude>31.731452</Latitude>
+    <StationName>Malakhi Junction</StationName>
+    <StationAddress>Beer Tuvia city</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26156</StationId>
+    <Logtitude>34.816488</Logtitude>
+    <Latitude>32.059937</Latitude>
+    <StationName>Korazin</StationName>
+    <StationAddress>6 Korazin,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26158</StationId>
+    <Logtitude>34.818635</Logtitude>
+    <Latitude>32.061674</Latitude>
+    <StationName>HaRav Herzog/Tabenkin</StationName>
+    <StationAddress>38 HaRav Herzog,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26084</StationId>
+    <Logtitude>34.814362</Logtitude>
+    <Latitude>32.062937</Latitude>
+    <StationName>Yigal Alon School/Rabbi Herzog</StationName>
+    <StationAddress>12 HaRav Herzog,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26080</StationId>
+    <Logtitude>34.812816</Logtitude>
+    <Latitude>32.058589</Latitude>
+    <StationName>Aluf Sade/Oded</StationName>
+    <StationAddress>Aluf Sade,Ramat Gan</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20033</StationId>
+    <Logtitude>34.808556</Logtitude>
+    <Latitude>32.062645</Latitude>
+    <StationName>Metzulot Yam/Israel Shapira</StationName>
+    <StationAddress>46 Metzulot Yam,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20327</StationId>
+    <Logtitude>34.812469</Logtitude>
+    <Latitude>32.069747</Latitude>
+    <StationName>The Kneset/Golomb</StationName>
+    <StationAddress>33 The Kneset,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26107</StationId>
+    <Logtitude>34.802974</Logtitude>
+    <Latitude>32.077945</Latitude>
+    <StationName>Thelma Yellin/Borochov</StationName>
+    <StationAddress>7 Borochov,Givata'yim</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>21139</StationId>
+    <Logtitude>34.795453</Logtitude>
+    <Latitude>32.082475</Latitude>
+    <StationName>Tel Aviv Center Train Station/Al Parashat Drachim</StationName>
+    <StationAddress>3 Al Parashat Drachim, Tel Aviv Jaffa</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>20265</StationId>
+    <Logtitude>34.805032</Logtitude>
+    <Latitude>32.088921</Latitude>
+    <StationName>Avigayil/Ruth</StationName>
+    <StationAddress>10 Avigayil,Ramat Gan</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>26945</StationId>
+    <Logtitude>34.825574</Logtitude>
+    <Latitude>32.098936</Latitude>
+    <StationName>Ayalon Mall</StationName>
+    <StationAddress>301 Abba Hillel Silver, Ramat Gan</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>12158</StationId>
+    <Logtitude>35.006083</Logtitude>
+    <Latitude>29.726226</Latitude>
+    <StationName>Ramon Airport/Platforms</StationName>
+    <StationAddress>Eilat city</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10378</StationId>
+    <Logtitude>34.996958</Logtitude>
+    <Latitude>29.706043</Latitude>
+    <StationName>Be'er Ora Junction/Ramon Airport</StationName>
+    <StationAddress>Eilat city</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>11742</StationId>
+    <Logtitude>34.969278</Logtitude>
+    <Latitude>29.581124</Latitude>
+    <StationName>Rabin Border Crossing/Road 90</StationName>
+    <StationAddress>Hevel Eilot Regional Council</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10377</StationId>
+    <Logtitude>34.967421</Logtitude>
+    <Latitude>29.577247</Latitude>
+    <StationName>Elot Junction</StationName>
+    <StationAddress>Hevel Eilot Regional Council</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10453</StationId>
+    <Logtitude>34.958621</Logtitude>
+    <Latitude>29.552333</Latitude>
+    <StationName>Tarshish/Dan Panorama Hotel</StationName>
+    <StationAddress>20 Tarshish,Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10871</StationId>
+    <Logtitude>34.962899</Logtitude>
+    <Latitude>29.549918</Latitude>
+    <StationName>HaYam/Antibes</StationName>
+    <StationAddress>HaYam, Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>19610</StationId>
+    <Logtitude>34.966804</Logtitude>
+    <Latitude>29.54958</Latitude>
+    <StationName>Herod's Hotel</StationName>
+    <StationAddress>Shopron,Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>19323</StationId>
+    <Logtitude>34.966055</Logtitude>
+    <Latitude>29.554866</Latitude>
+    <StationName>Kampen/Ice Mall</StationName>
+    <StationAddress>7 Kampen, Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>19613</StationId>
+    <Logtitude>34.962112</Logtitude>
+    <Latitude>29.556076</Latitude>
+    <StationName>Kampen/HaMelonot Road</StationName>
+    <StationAddress>3 Kampen, Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>10255</StationId>
+    <Logtitude>34.954541</Logtitude>
+    <Latitude>29.55331</Latitude>
+    <StationName>HaArava Road/HaTmarim Blvd</StationName>
+    <StationAddress>HaArava Road, Eilat</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>55637</StationId>
+    <Logtitude>35.292233</Logtitude>
+    <Latitude>32.607821</Latitude>
+    <StationName>Afula Central Station/Platforms</StationName>
+    <StationAddress>4 Platform,Afula</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>55400</StationId>
+    <Logtitude>35.327759</Logtitude>
+    <Latitude>32.629757</Latitude>
+    <StationName>Golani Road/Komemiyut</StationName>
+    <StationAddress>Golani Road,Afula</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>55340</StationId>
+    <Logtitude>35.373189</Logtitude>
+    <Latitude>32.650154</Latitude>
+    <StationName>Na'ura Junction</StationName>
+    <StationAddress>Jezreel Valley</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>56733</StationId>
+    <Logtitude>35.419528</Logtitude>
+    <Latitude>32.685437</Latitude>
+    <StationName>Kfar Tavor Center</StationName>
+    <StationAddress>Kfar Tavor</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>54245</StationId>
+    <Logtitude>35.40805</Logtitude>
+    <Latitude>32.772432</Latitude>
+    <StationName>Golani Interchange/Eastbound</StationName>
+    <StationAddress>Exit to Route 77 East,Lower Galilee</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>58118</StationId>
+    <Logtitude>35.527408</Logtitude>
+    <Latitude>32.797128</Latitude>
+    <StationName>Shimon Dahan/HaShomer</StationName>
+    <StationAddress>17 Shimon Dahan,Tiberias</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>57008</StationId>
+    <Logtitude>35.51665</Logtitude>
+    <Latitude>32.845789</Latitude>
+    <StationName>Kibbutz Ginosar 2</StationName>
+    <StationAddress>Jordan valley</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>51410</StationId>
+    <Logtitude>35.551334</Logtitude>
+    <Latitude>32.968266</Latitude>
+    <StationName>Rosh Pina Junction</StationName>
+    <StationAddress>Rosh Pina city</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>53408</StationId>
+    <Logtitude>35.556268</Logtitude>
+    <Latitude>32.98083</Latitude>
+    <StationName>Hatsor HaGlilit Central Station/Platforms</StationName>
+    <StationAddress>Hatsor HaGlilit Local Council</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>51470</StationId>
+    <Logtitude>35.572392</Logtitude>
+    <Latitude>33.112165</Latitude>
+    <StationName>Agamon Hula</StationName>
+    <StationAddress>Upper Galilee</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>51451</StationId>
+    <Logtitude>35.569651</Logtitude>
+    <Latitude>33.205323</Latitude>
+    <StationName>Tel Hai/Uri Ilan</StationName>
+    <StationAddress>85 Tel Hai, Kiryat Shmona</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>6102</StationId>
+    <Logtitude>35.232061</Logtitude>
+    <Latitude>31.799032</Latitude>
+    <StationName>Giv'at Hatachmoshet Light Rail Station</StationName>
+    <StationAddress>Zalman Shragai, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>2566</StationId>
+    <Logtitude>35.240696</Logtitude>
+    <Latitude>31.825373</Latitude>
+    <StationName>Sayeret Dukhifat/Moshe Dayan</StationName>
+    <StationAddress>Sayeret Dukhifat Blvd ,Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>3022</StationId>
+    <Logtitude>35.252356</Logtitude>
+    <Latitude>31.827964</Latitude>
+    <StationName>Sayeret Dukhifat/Hazme Barricade</StationName>
+    <StationAddress>Sayeret Dukhifat Blvd, Jerusalem</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>60826</StationId>
+    <Logtitude>35.261405</Logtitude>
+    <Latitude>31.864909</Latitude>
+    <StationName>Sha'ar Binyamin Industrial Zone</StationName>
+    <StationAddress>Mateh Binyamin City</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>61152</StationId>
+    <Logtitude>35.260453</Logtitude>
+    <Latitude>31.872953</Latitude>
+    <StationName>Gas Station/Kokhav Ya'akov</StationName>
+    <StationAddress>Mateh Binyamin City</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>61350</StationId>
+    <Logtitude>35.250008</Logtitude>
+    <Latitude>31.911904</Latitude>
+    <StationName>Giv'at Assaf Junction/Road 60</StationName>
+    <StationAddress>Mateh Binyamin Regional Council</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>60901</StationId>
+    <Logtitude>35.256997</Logtitude>
+    <Latitude>31.955625</Latitude>
+    <StationName>Ofra/Exit</StationName>
+    <StationAddress>Hameyasdim ,Ofra</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>60499</StationId>
+    <Logtitude>35.290424</Logtitude>
+    <Latitude>32.048149</Latitude>
+    <StationName>Shilo Junction</StationName>
+    <StationAddress>Mateh Binyamin Regional Council</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>65260</StationId>
+    <Logtitude>35.171607</Logtitude>
+    <Latitude>32.105963</Latitude>
+    <StationName>Bet Hachayal/HaNahshonim Road</StationName>
+    <StationAddress>43 Nahshonim Road,Ariel</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>63231</StationId>
+    <Logtitude>35.17337</Logtitude>
+    <Latitude>32.102254</Latitude>
+    <StationName>Ganim/HaKalaniot</StationName>
+    <StationAddress> 41 Ganim,Ariel</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>12345</StationId>
+    <Logtitude>35.3</Logtitude>
+    <Latitude>32</Latitude>
+    <StationName>fffff</StationName>
+    <StationAddress>vvvv</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+  <Station>
+    <StationId>223344</StationId>
+    <Logtitude>34.737534</Logtitude>
+    <Latitude>31.696203</Latitude>
+    <StationName>aaa</StationName>
+    <StationAddress>ddd</StationAddress>
+    <IsAvailableStation>true</IsAvailableStation>
+  </Station>
+</ArrayOfStation>

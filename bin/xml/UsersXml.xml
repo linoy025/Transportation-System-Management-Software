@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <UserName>elinoy025</UserName>
+    <UserPassword>#eli1111</UserPassword>
+    <IsAdmin>true</IsAdmin>
+    <IsAvailableUser>true</IsAvailableUser>
+   
+  </User>
+  <User>
+    <UserName>tamara2323</UserName>
+    <UserPassword>#tam2222</UserPassword>
+    <IsAdmin>true</IsAdmin>
+    <IsAvailableUser>true</IsAvailableUser>
+    
+  </User>
+  <User>
+    <UserName>2</UserName>
+    <UserPassword>B</UserPassword>
+    <IsAdmin>true</IsAdmin>
+    <IsAvailableUser>true</IsAvailableUser>   
+  </User>
+  <User>
+    <UserName>nuritus</UserName>
+    <UserPassword>1000</UserPassword>
+    <IsAdmin>true</IsAdmin>
+    <IsAvailableUser>true</IsAvailableUser>
+  </User>
+</ArrayOfUser>
